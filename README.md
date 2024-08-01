@@ -12,7 +12,7 @@ A minimalist webapp to view latest news on go and also view the nepse index
 To deploy this project run
 
 ```bash
-Add badges from somewhere like: [shields.io](https://shields.io/)
+Go to website: www.trendtabs.xyz
 
 This will redirect you to the login page where you will input your username and password.
 
