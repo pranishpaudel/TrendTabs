@@ -12,7 +12,7 @@ A minimalist webapp to view latest news on go and also view the nepse index
 To deploy this project run
 
 ```bash
-Go to www.trendtabs.xyz
+Go to [www.trendtabs.xyz](www.trendtabs.xy)
 
 This will redirect you to the login page where you will input your username and password.
 
