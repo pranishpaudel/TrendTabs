@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+
+.weathercontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 15vw;
+  height: 5vh;
+  margin-right: 30px;
+  font-size: 1.1rem;
+}
+
+.temp {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-left: 5px;
+}
