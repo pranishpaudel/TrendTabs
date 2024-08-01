@@ -27,11 +27,6 @@ On Successful login you will be redirected to the TrendTabs homepage.
 ```
 
 
-## Appendix
-
-Any additional information goes here
-
-
 ## Developers
 
 - [@pranishpoudel](https://www.linkedin.com/in/pranishpoudel/)
@@ -40,5 +35,5 @@ Any additional information goes here
 
 ## Youtube Demo Link
 
- - ................
+ - https://www.youtube.com/watch?v=juD1ryinE9Q
 
