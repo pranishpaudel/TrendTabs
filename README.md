@@ -33,6 +33,12 @@ On Successful login you will be redirected to the TrendTabs homepage.
 - [@sanchitpanta](https://www.linkedin.com/in/sanchitpanta/)
 - [@sumingc](https://www.facebook.com/sumin.gc.90)
 
+
+## Appendix
+
+This project was done as the final project for the Web Technology course. It involves converting an existing Chrome extension called TrendTabs, making some changes, and integrating basic CRUD (Create, Read, Update, Delete) functionality into it.
+
+
 ## Youtube Demo Link
 
  - https://www.youtube.com/watch?v=juD1ryinE9Q
