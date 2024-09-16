@@ -31,7 +31,6 @@ On Successful login you will be redirected to the TrendTabs homepage.
 
 - [@pranishpoudel](https://www.linkedin.com/in/pranishpoudel/)
 - [@sanchitpanta](https://www.linkedin.com/in/sanchitpanta/)
-- [@sumingc](https://www.facebook.com/sumin.gc.90)
 
 
 ## Appendix
